@@ -1,6 +1,6 @@
 # ReportSystem (Приложение с многослойной архитектурой DAL - BLL - PL)
 
-DAL - база данных SQLite
+DAL - SQLite
 <br />
 PL - консоль 
 <br />
